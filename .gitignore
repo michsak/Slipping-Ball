@@ -1,0 +1,43 @@
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/PMXmls/
+/.idea
+*.csproj*
+*.unityproj*
+*.sln
+*.sln.meta
+*.suo*
+*.tmp*
+*.user*
+*.user*
+*.userprefs*
+*.pidb*
+*.booproj*
+Assets/VSCode
+.vscode
+VSCode.meta
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/PMXmls/
+/.idea
+SwitchIL2CPPCache/*
+SwitchIL2CPPStats/*
+*.csproj*
+*.unityproj*
+*.sln
+*.sln.meta
+*.suo*
+*.tmp*
+*.user*
+*.user*
+*.userprefs*
+*.pidb*
+*.booproj*
+settings.json
+Assets/Graphics Components/Grass&Ground/TerrainTextures/GrassUV01.png
+Assets/Graphics Components/Grass&Ground/TerrainTextures/GrassUV01_N.png
+Assets/Graphics Components/Grass&Ground/TerrainTextures/GrassUV02.png
+Assets/Graphics Components/Grass&Ground/TerrainTextures/GrassUV02_N.png
