@@ -37,10 +37,6 @@ public class LevelLoader : MonoBehaviour
         {
             displayStarsNumber.EndOfLevel();
         }
-        if (currentScene == 4)
-        {
-            SceneManager.LoadScene(0);  //if end of game load start menu, may bo to updated
-        }
     }
 
     public void QuitGame()
